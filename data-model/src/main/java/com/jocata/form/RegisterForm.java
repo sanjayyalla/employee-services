@@ -1,4 +1,4 @@
-package com.jocata;
+package com.jocata.form;
 
 public class RegisterForm {
     private String username;
